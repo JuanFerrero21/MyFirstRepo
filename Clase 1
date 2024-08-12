@@ -1,1 +1,6 @@
+#include <stdio.h>
 
+int main() {
+    printf("Hola, profe de electronica digital 3\n");
+    return 0;
+}
